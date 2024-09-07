@@ -1,0 +1,16 @@
+{
+   "displayName" : "tkil_yaml_tweaks",
+   "version" : "1.0",
+   "buildNumber" : 21,
+   "description" : "",
+   "author" : "",
+   "authorURL" : "",
+   "defaultLoadOrder" : 9,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Objects/_common/Components/PlayerControllerComponents/PlayerControllerAirStrikeComponent.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

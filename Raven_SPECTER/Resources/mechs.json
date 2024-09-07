@@ -1,0 +1,10 @@
+{
+    "Raven_SPECTER_MDL": {
+        "quirks": [
+            "SPECTER_ARMOR",
+            "SPECTER_MOBILITY",
+            "SPECTER_WEAPONS",
+            "SPECTER_FLAMERS"
+        ]
+    }
+}

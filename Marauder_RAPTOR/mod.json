@@ -1,0 +1,14 @@
+{
+	"displayName": "Marauder_RAPTOR",
+	"version": "1.0",
+	"buildNumber": 32,
+	"description": "Role Adaptive Platform for Tactics, Operations and Raids",
+	"author": "",
+	"authorURL": "",
+	"defaultLoadOrder": 5,
+	"gameVersion": "1.1.0",
+	"manifest": [],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}
