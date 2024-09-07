@@ -1,0 +1,194 @@
+{
+	"ZETA-LIGHT": {
+		"name": "Zeta Mech",
+		"description": "Zeta 'Mechs are engineered with the Pinnacle of SLDF tech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.1,
+			"topSpeedReverseMulti": 1.1,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"caseLevel": 1,
+			"sensorRangeBonus": 100,
+			"lockonTimeMulti": 0.9,
+			"weapons": {
+				"structureBonus": {
+					"CenterTorso": 4,
+					"RightTorso": 2,
+					"LeftTorso": 2,
+					"RightArm": 2,
+					"LeftArm": 2,
+					"RightLeg": 2,
+					"LeftLeg": 2
+				},
+				"armorBonus": {
+					"CenterTorso": 4,
+					"RightTorso": 2,
+					"LeftTorso": 2,
+					"RightArm": 2,
+					"LeftArm": 2,
+					"RightLeg": 2,
+					"LeftLeg": 2
+				},
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"heatMulti": 0.9,
+						"speedMulti": 1.1,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1,
+						"durationMulti": 0.9
+					}
+				]
+			}
+		}
+    },
+	"ZETA-MEDIUM": {
+		"name": "Zeta Mech",
+		"description": "Zeta 'Mechs are engineered with the Pinnacle of SLDF tech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.1,
+			"topSpeedReverseMulti": 1.1,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"caseLevel": 1,
+			"sensorRangeBonus": 100,
+			"lockonTimeMulti": 0.9,
+			"weapons": {
+				"structureBonus": {
+					"CenterTorso": 6,
+					"RightTorso": 4,
+					"LeftTorso": 4,
+					"RightArm": 4,
+					"LeftArm": 4,
+					"RightLeg": 4,
+					"LeftLeg": 4
+				},
+				"armorBonus": {
+					"CenterTorso": 6,
+					"RightTorso": 4,
+					"LeftTorso": 4,
+					"RightArm": 4,
+					"LeftArm": 4,
+					"RightLeg": 4,
+					"LeftLeg": 4
+				},
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"heatMulti": 0.9,
+						"speedMulti": 1.1,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1,
+						"durationMulti": 0.9
+					}
+				]
+			}
+		}
+    },
+	"ZETA-HEAVY": {
+		"name": "Zeta Mech",
+		"description": "Zeta 'Mechs are engineered with the Pinnacle of SLDF tech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.1,
+			"topSpeedReverseMulti": 1.1,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"caseLevel": 1,
+			"sensorRangeBonus": 100,
+			"lockonTimeMulti": 0.9,
+			"weapons": {
+				"structureBonus": {
+					"CenterTorso": 8,
+					"RightTorso": 6,
+					"LeftTorso": 6,
+					"RightArm": 6,
+					"LeftArm": 6,
+					"RightLeg": 6,
+					"LeftLeg": 6
+				},
+				"armorBonus": {
+					"CenterTorso": 8,
+					"RightTorso": 6,
+					"LeftTorso": 6,
+					"RightArm": 6,
+					"LeftArm": 6,
+					"RightLeg": 6,
+					"LeftLeg": 6
+				},
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"heatMulti": 0.9,
+						"speedMulti": 1.1,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1,
+						"durationMulti": 0.9
+					}
+				]
+			}
+		}
+    },
+	"ZETA-ASSAULT": {
+		"name": "Zeta Mech",
+		"description": "Zeta 'Mechs are engineered with the Pinnacle of SLDF tech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.1,
+			"topSpeedReverseMulti": 1.1,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"caseLevel": 1,
+			"sensorRangeBonus": 100,
+			"lockonTimeMulti": 0.9,
+			"weapons": {
+				"structureBonus": {
+					"CenterTorso": 10,
+					"RightTorso": 8,
+					"LeftTorso": 8,
+					"RightArm": 8,
+					"LeftArm": 8,
+					"RightLeg": 8,
+					"LeftLeg": 8
+				},
+				"armorBonus": {
+					"CenterTorso": 10,
+					"RightTorso": 8,
+					"LeftTorso": 8,
+					"RightArm": 8,
+					"LeftArm": 8,
+					"RightLeg": 8,
+					"LeftLeg": 8
+				},
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"heatMulti": 0.9,
+						"speedMulti": 1.1,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1,
+						"durationMulti": 0.9
+					}
+				]
+			}
+		}
+	}
+}

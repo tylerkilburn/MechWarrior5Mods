@@ -1,0 +1,16 @@
+{
+   "displayName" : "NonnegotiableAirstrikes",
+   "version" : "1.0",
+   "buildNumber" : 1,
+   "description" : "Free Airstrikes without Negotiation",
+   "author" : "tkil",
+   "authorURL" : "",
+   "defaultLoadOrder" : 5,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Objects/_common/Components/PlayerControllerComponents/PlayerControllerAirStrikeComponent.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

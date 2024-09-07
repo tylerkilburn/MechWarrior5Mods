@@ -1,10 +1,4 @@
 {
-    "CRB-27B": {
-		"quirks": [
-			"NARROW-PROFILE",
-			"SLDF"
-		]
-	},
     "Marauderii_MDL": {
         "aiMechRole": "Sniper"
     }
