@@ -11,25 +11,25 @@
 			"caseLevel": 1,
 			"sensorRangeBonus": 100,
 			"lockonTimeMulti": 0.9,
+			"structureBonus": {
+				"CenterTorso": 4,
+				"RightTorso": 2,
+				"LeftTorso": 2,
+				"RightArm": 2,
+				"LeftArm": 2,
+				"RightLeg": 2,
+				"LeftLeg": 2
+			},
+			"armorBonus": {
+				"CenterTorso": 4,
+				"RightTorso": 2,
+				"LeftTorso": 2,
+				"RightArm": 2,
+				"LeftArm": 2,
+				"RightLeg": 2,
+				"LeftLeg": 2
+			},
 			"weapons": {
-				"structureBonus": {
-					"CenterTorso": 4,
-					"RightTorso": 2,
-					"LeftTorso": 2,
-					"RightArm": 2,
-					"LeftArm": 2,
-					"RightLeg": 2,
-					"LeftLeg": 2
-				},
-				"armorBonus": {
-					"CenterTorso": 4,
-					"RightTorso": 2,
-					"LeftTorso": 2,
-					"RightArm": 2,
-					"LeftArm": 2,
-					"RightLeg": 2,
-					"LeftLeg": 2
-				},
 				"groups": [
 					{
 						"weaponGroupName": "Weapon",
@@ -59,25 +59,25 @@
 			"caseLevel": 1,
 			"sensorRangeBonus": 100,
 			"lockonTimeMulti": 0.9,
+			"structureBonus": {
+				"CenterTorso": 6,
+				"RightTorso": 4,
+				"LeftTorso": 4,
+				"RightArm": 4,
+				"LeftArm": 4,
+				"RightLeg": 4,
+				"LeftLeg": 4
+			},
+			"armorBonus": {
+				"CenterTorso": 6,
+				"RightTorso": 4,
+				"LeftTorso": 4,
+				"RightArm": 4,
+				"LeftArm": 4,
+				"RightLeg": 4,
+				"LeftLeg": 4
+			},
 			"weapons": {
-				"structureBonus": {
-					"CenterTorso": 6,
-					"RightTorso": 4,
-					"LeftTorso": 4,
-					"RightArm": 4,
-					"LeftArm": 4,
-					"RightLeg": 4,
-					"LeftLeg": 4
-				},
-				"armorBonus": {
-					"CenterTorso": 6,
-					"RightTorso": 4,
-					"LeftTorso": 4,
-					"RightArm": 4,
-					"LeftArm": 4,
-					"RightLeg": 4,
-					"LeftLeg": 4
-				},
 				"groups": [
 					{
 						"weaponGroupName": "Weapon",
@@ -107,25 +107,25 @@
 			"caseLevel": 1,
 			"sensorRangeBonus": 100,
 			"lockonTimeMulti": 0.9,
+			"structureBonus": {
+				"CenterTorso": 8,
+				"RightTorso": 6,
+				"LeftTorso": 6,
+				"RightArm": 6,
+				"LeftArm": 6,
+				"RightLeg": 6,
+				"LeftLeg": 6
+			},
+			"armorBonus": {
+				"CenterTorso": 8,
+				"RightTorso": 6,
+				"LeftTorso": 6,
+				"RightArm": 6,
+				"LeftArm": 6,
+				"RightLeg": 6,
+				"LeftLeg": 6
+			},
 			"weapons": {
-				"structureBonus": {
-					"CenterTorso": 8,
-					"RightTorso": 6,
-					"LeftTorso": 6,
-					"RightArm": 6,
-					"LeftArm": 6,
-					"RightLeg": 6,
-					"LeftLeg": 6
-				},
-				"armorBonus": {
-					"CenterTorso": 8,
-					"RightTorso": 6,
-					"LeftTorso": 6,
-					"RightArm": 6,
-					"LeftArm": 6,
-					"RightLeg": 6,
-					"LeftLeg": 6
-				},
 				"groups": [
 					{
 						"weaponGroupName": "Weapon",
@@ -155,25 +155,25 @@
 			"caseLevel": 1,
 			"sensorRangeBonus": 100,
 			"lockonTimeMulti": 0.9,
+			"structureBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 8,
+				"LeftTorso": 8,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			},
+			"armorBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 8,
+				"LeftTorso": 8,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			},
 			"weapons": {
-				"structureBonus": {
-					"CenterTorso": 10,
-					"RightTorso": 8,
-					"LeftTorso": 8,
-					"RightArm": 8,
-					"LeftArm": 8,
-					"RightLeg": 8,
-					"LeftLeg": 8
-				},
-				"armorBonus": {
-					"CenterTorso": 10,
-					"RightTorso": 8,
-					"LeftTorso": 8,
-					"RightArm": 8,
-					"LeftArm": 8,
-					"RightLeg": 8,
-					"LeftLeg": 8
-				},
 				"groups": [
 					{
 						"weaponGroupName": "Weapon",
@@ -189,6 +189,30 @@
 					}
 				]
 			}
+		}
+	},
+	"RVN-2Z_EW": {
+		"name": "EW Countermeasures",
+		"description": "The unit has an integrated Electronic Warfare Countermeasure suite and Bloodhound probe package.",
+		"color": "(R=0.3,G=0.3,B=0.1,A=3)",
+		"properties": {
+			"sensorFov": 360
+		}
+	},
+	"RVN-2Z_NULL-SYSTEM": {
+		"name": "Null Signature System",
+		"description": "This 'Mech has an integrated Null Signature System that cloaks its heat output and electronic emissions.",
+		"color": "(R=0.1,G=0.1,B=0.1,A=1)",
+		"properties": {
+			"dmgEvasionChance": 0.4
+		}
+	},
+	"MAD-2ZC_EW": {
+		"name": "EW Countermeasures",
+		"description": "The unit has sensor interference countermeasures.",
+		"color": "(R=0.1,G=0.1,B=0.1,A=1)",
+		"properties": {
+			"dmgEvasionChance": 0.05
 		}
 	}
 }

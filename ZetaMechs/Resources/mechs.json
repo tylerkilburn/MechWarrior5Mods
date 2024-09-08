@@ -1,3 +1,54 @@
 {
-
+	"FS9-2Z": {
+		"maxEngineRating": 250,
+		"quirks": [
+			"ZETA-LIGHT",
+			"EASYTOMAINTAIN",
+			"RUGGED2",
+			"EASY-PILOT"
+		]
+	},
+	"RVN-2Z": {
+		"maxEngineRating": 250,
+		"quirks": [
+			"ZETA-LIGHT",
+			"NARROW-PROFILE",
+			"RVN-2Z_EW",
+			"RVN-2Z_NULL-SYSTEM"
+		]
+	},
+	"CRB-27Z": {
+        "aiMechRole": "Skirmisher",
+		"maxEngineRating": 325,
+		"quirks": [
+			"ZETA-MEDIUM",
+			"NARROW-PROFILE",
+			"EASYTOMAINTAIN",
+			"RUGGED2",
+			"EASY-PILOT"
+		]
+	},
+	"MAD-2Z": {
+		"maxEngineRating": 350,
+		"quirks": [
+			"ZETA-HEAVY"
+		]
+	},
+	"MAD-2ZC": {
+		"maxEngineRating": 350,
+		"quirks": [
+			"ZETA-HEAVY",
+			"MAD-2ZC_EW"
+		]
+	},
+	"MAD-6Z": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"CMD-MECH",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW-PROFILE",
+			"EXP-ACTUATOR",
+			"ZETA-ASSAULT"
+		]
+	}
 }
