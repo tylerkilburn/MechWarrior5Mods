@@ -214,5 +214,25 @@
 		"properties": {
 			"dmgEvasionChance": 0.05
 		}
+	},
+	"MAD-6Z_PPC": {
+		"name": "PPC Platform",
+		"description": "This 'Mech is designed to be a Particle Projection Cannon platform, and has improved PPC efficiency",
+		"color": "(R=0.033105,G=0.226966,B=1,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"cooldownMulti": 0.85,
+						"heatMulti": 0.75,
+						"speedMulti": 1.25
+					}
+				]
+			}
+		}
 	}
 }

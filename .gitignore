@@ -12,10 +12,11 @@ UE4Duino
 VictoryPlugin
 
 # Reference Plugins
+VehicleDropAR
 YetAnotherMechlab
 YetAnotherWeapon
 
-#Cache Files
+# Cache Files
 Intermediate/
 Saved/
 Epic Games
